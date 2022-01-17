@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/projects/GitFlows/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/projects/GitFlows/app/src/main/res/layout/activity_main_end.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GitFlows/app/src/main/res/layout/activity_main_start.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GitFlows/app/src/main/res/xml/activity_main_start.xml" value="0.25416666666666665" />
+        <entry key="..\:/projects/GitFlows/app/src/main/res/xml/motion_scene.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
