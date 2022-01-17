@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         binding= ActivityMainStartBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        DataLoader data= new DataLoader("Button","Text Above","Text Below");
+        DataLoader data= new DataLoader("Expand the View","Text from Test0 Branch","Some Random data");
         binding.button.setText(data.getButtonData());
         binding.textOne.setText(data.getTopText());
         binding.textTwo.setText(data.getBottomText());
